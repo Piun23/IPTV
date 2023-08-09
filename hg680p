@@ -316,12 +316,12 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="blueantextreme" tvg-logo="https://i.postimg.cc/Kzs1R1LN/logo-blueantext-big.png" group-title="MOVIES",ROCK EXTREME 
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8 
 
-<<<<<ENTERTAIN>>>>>
+<<<<<KNOWLEDGE>>>>>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMw5ksJz/20220926-202056.png" group-title="Pengetahuan" tvg-id="AnimalPlanetIndonesia.id" tvg-name="Animal Planet HD", Animal Planet
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KHKIztL.png?v=1.0.0.1" group-title="KNOWLEDGE" tvg-id="AnimalPlanetIndonesia.id" tvg-name="Animal Planet HD", Animal Planet
 #https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8 
 
