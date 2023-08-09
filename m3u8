@@ -342,22 +342,12 @@ http://kuchini.site:8080/live/Raionew/2e1df8e7/298535.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
 #EXTINF:-1 group-title="ENTERTAIN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg",Asian Food Network 
-https://nxanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KHKIztL.png?v=1.0.0.1" group-title="ENTERTAIN" tvg-id="Animal Planet HD" tvg-name="Animal Planet HD", Animal Planet 
-https://nxanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd 
+https://nxanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd  
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jD4e8Ez.png?v=1.0.0.1" group-title="ENTERTAIN" tvg-id="BBC Earth" tvg-name="BBC Earth", BBC Earth 
-https://nxanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/AWvwPm5.png?v=1.0.0.1" group-title="ENTERTAIN" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD", Discovery Channel 
-https://nxanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd 
+https://nxanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd  
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
@@ -387,12 +377,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54NSs1a.png?v=1.0.0.1" group-title="ENTERTAIN" tvg-id="besmart" tvg-name="BeSmart", BeSmart 
-https://nxanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1 
-#EXTINF:-1 group-title="ENTERTAIN" tvg-logo="https://warningfm.github.io/v3/img/le4o5Zy.png?v=1.0.0.1" tvg-id="TLC" tvg-name="TLC", TLC 
-https://nxanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd 
+https://nxanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd  
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
@@ -412,12 +397,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
 #EXTINF:-1 group-title="ENTERTAIN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png",Lifestyle & Fashion 
-https://nxanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
-#EXTINF:-1 group-title="ENTERTAIN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",Lifetime Asia 
-https://nxanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd 
+https://nxanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd  
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
@@ -437,16 +417,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
 #EXTINF:-1 group-title="ENTERTAIN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg",Asian Food Network 
-https://nxanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd 
-
-#EXTINF:-1 tvg-id="" tvg-name="BBC LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/a4ee7fe11bd79d2b7d3fd48ce2dd1d6f.png" group-title="ENTERTAIN",BBC LifeStyle 
-http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/85436 
+https://nxanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd  
 
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8e2efdee6ab760a91c7d0ffb80bbab1.png" group-title="ENTERTAIN",Food Network 
-http://79.106.90.121:18082/FoodNetwork/mpegts 
-
-#EXTINF:-1 tvg-id="" tvg-name="BBC LifeStyle" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/a4ee7fe11bd79d2b7d3fd48ce2dd1d6f.png" group-title="ENTERTAIN",BBC LifeStyle b 
-https://epg.pw/stream/91a4b30fd66fcefe0862f4c5586af353436a0f6a222103b0069285e652267b98.ctv 
+http://79.106.90.121:18082/FoodNetwork/mpegts  
 
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8e2efdee6ab760a91c7d0ffb80bbab1.png" group-title="ENTERTAIN",Food Network b 
 https://s@mpdplayer.izqhjzepxsrvrwl.sbs:443/4891/tracks-v1a1/mono.m3u8 
