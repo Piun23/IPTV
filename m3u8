@@ -1363,8 +1363,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/2e3fb585/eef1_r32.jpg" group-title="OLAHRAGA",MNC Sports 3 
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Champion TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="OLAHRAGA",ID: Champion TV 1
-http:/#EXTINF:- tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20210608_211810.png" group-title="OLAHRAGA" tvg-name="Motor Racing" , Motor Racing 
+#EXTINF:- tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20210608_211810.png" group-title="OLAHRAGA" tvg-name="Motor Racing" , Motor Racing 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/b3915ad2-a695-4cab-a615-31a4c38c6944/0.m3u8
 
 #EXTINF:- tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/logo_20230201_211047_68.png" group-title="OLAHRAGA" tvg-name="MTRSPT1" , MTRSPT1
