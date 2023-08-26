@@ -136,6 +136,43 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
 <<<<MOVIES>>>>
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="MOVIES",HBO CubMu
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="MOVIES",HBO Hits CubMu
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="MOVIES",HBO Family CubMu
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="MOVIES",HBO Signature CubMu
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png" group-title="MOVIES",Cinemax CubMu
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="MOVIES",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/edyindralawi20gmail-2
@@ -962,3 +999,60 @@ http://190.83.119.67:8000/play/a0pn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MG57pwQt/musik.jpg" group-title="MUSIK",MTV SIM HD 
 http://190.83.119.67:8000/play/a0sv/index.m3u8 
+
+<<<<<DIGITAL>>>>>
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png",INDOSIAR HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a016
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",MENTARI HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a018
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",MOJI HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a017
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SCTV_HD_Logo.svg/2560px-SCTV_HD_Logo.svg.png",SCTV HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a015
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPj6Q3ggs3TMU5GqFnXp6dXvTRa2WZzBixg&usqp=CAU",TRANS 7 HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01c
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU",TRANS TV HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01b
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",ANTV HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01g
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/1280px-TvOne_2023.svg.png",TVONE
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01h
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNCT_r9lJqI7DIjkR5RxVrBIJUJi-MME4NXA&usqp=CAU",Aswaja TV
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a020
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTUfOqu_T5Xz0XdStblW38JZxMzf6JaIxUQ&usqp=CAU",CNBC INDONESIA HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01e
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/1200px-Logo_of_CNN_Indonesia.svg.png",CNN INDONESIA HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01d
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HPAmO80jmnzCTqJEKnOzcEweDOepORaxAQ&usqp=CAU",KOMPASTV HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a019
+
+#EXTINF:-1  tvg-logo="https://s.id/1dYfQ",Madu TV Nusantara
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01y
+
+#EXTINF:-1  tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png",TV Tabalong
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01z
