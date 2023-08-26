@@ -51,7 +51,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd 
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ochannel_ver1.png" group-title="LOKAL" tvg-name="MOJI HD", MOJI HD
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880795
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
@@ -578,6 +578,56 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EGGuHqr6f2GBksRUQVUBRy_CPxppFX_KGA&usqp=CAU",SSC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium614/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EGGuHqr6f2GBksRUQVUBRy_CPxppFX_KGA&usqp=CAU",SSC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium615/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EGGuHqr6f2GBksRUQVUBRy_CPxppFX_KGA&usqp=CAU",SSC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium616/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EGGuHqr6f2GBksRUQVUBRy_CPxppFX_KGA&usqp=CAU",SSC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium617/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EGGuHqr6f2GBksRUQVUBRy_CPxppFX_KGA&usqp=CAU",SSC 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium618/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EGGuHqr6f2GBksRUQVUBRy_CPxppFX_KGA&usqp=CAU",SSC Extra 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium619/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EGGuHqr6f2GBksRUQVUBRy_CPxppFX_KGA&usqp=CAU",SSC Extra 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium620/index.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EGGuHqr6f2GBksRUQVUBRy_CPxppFX_KGA&usqp=CAU",SSC Extra 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium621/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5lr9ga1637159235.png" group-title="OLAHRAGA" ,ON Time Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium611/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5lr9ga1637159235.png" group-title="OLAHRAGA" ,ON Time Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnhks.lol/lb/premium612/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 1 Mongolia
 https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
 
@@ -593,62 +643,7 @@ https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 5 Mongolia
 https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena Sport 1 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena1.mpd
-
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png",Arena Sport 1x2 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena_1x2.mpd
-
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png",Arena Sport 2 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena2.mpd
-
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png",Arena Sport 3 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
-
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png",Arena Sport 4 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
-
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png",Arena Sport 5 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
-
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 6 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
-
-#EXTINF:- tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20210608_211810.png" group-title="OLAHRAGA" tvg-name="Motor Racing" , Motor Racing 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/b3915ad2-a695-4cab-a615-31a4c38c6944/0.m3u8
-
-#EXTINF:- tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/logo_20230201_211047_68.png" group-title="OLAHRAGA" tvg-name="MTRSPT1" , MTRSPT1
-https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/cb56381b6573679092ca2167d3f062ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec58ae6852db80148b6f4adafb8c2360625f5c98435ee3b24aa2ace75d42dd6fa3ac1f40932a58e683179cc94eba89d64699418625f4119497f88ad01388aaab43f803f17a0d5d34749a855097fd44a6dfe80153fa722749155ce3f9e894223d82540d4fecf0d9ba70ed1fbce24fe87539bf059e468a358e31d963cde04ab3e3b3da4b4631b0b63e0b44f2b5f2d0945f5bbc62e8eceed9636eeb957e19179318b2452a3c83b3c71590b17ffcde6ed3fa3b4c6994c11feaf7d896fc8f9d589533cbc4edea5e282f335e7bec37a39e7e952bc876acc2165337272db89451c180d050356615feea30d51708f7c89f91da0f36de790b5f9a06b33f0965da31360e8f4af89e2f228d2b0bf752579e5e348c51f9e27d9fc0dae11575b4d7c330b905abb30f85f75aaf6b6a1403e2a27c12114a2481a33f5b642a8e47bcd59be3240f59bcaecea99a00526e381341428eecf14f92fc8643594fc3527537274247db018f6bdc4d1d547f9b53d1f80b20c8517375b5f5680f5c39cecab5dbe8bcad45b16c9dc8f8365d5f330194175f7004bfb7894ab33c4e68735e85266031fb6d1e44efc2c8bd9f8638839d35fa682f40659ca15a185f06202e08c39639d50de4ca4de0989d06bd85e713419672aa121c97c6d91e9b87e0961578fac2561d74d9df28cb745fac7dbd7ad8843e80e401504c660122ad8f50ec11b8cf8af83d9f3ebe460c709816d1f0b1e3843706b2c01962635d044d3d38192d08ab94d4741058eda822e152f4f227c62839363153db90145f8fe67a1992212433cfc9ca8fbe84061edc51e1078f0a47a0525a2fb9ca3ebcceb3a2aad722000680e7e615edf5dbccce8ecc777c586a69cb985c022daa4c9b8d03f2e31a79e0bd92f5df1cf41f8367e1f1dc40e538b385a91d91808ff7ed761447283496a0a7a07fb1d80d41ab69a92e4779ccd0349c0f93dbb81436fa5cec8b75adc654be35e89ae11eea0c89c3317af3aa3c40ea4704d7ede52438cf36a1211825c79480432fcace279669aad8c72a45b81e4de04d584f8b56c3b4ef5e40eabd430f56e91d0988568ce4f40c4f2ba2b875040b1c1d220cdb4e480bea064bbf119dc3fba34376b832bc030bea5faace6d9ea40ee7dec1deacb30b7fabf4034ee41dfe34a116d4d1a9fa21a0044b8c659d38768bd991d899fff5bdddf52c633eaf548a3cf86492f09aa921013f74f7426b6b09a54bc122245ea4c044eb9078478dcbdf01c5174447113002cd4aaf95375e753ba1c925bce759497d6832f1db4bbf158d6f13d25542ef083a1e2b065115f6bce81a8739ea5b9cc24c0bc9aee29d08f7e11bfb9f8effb11d3dfb472b5e60b1b69db4dd160cabb0879a1366abc76aba3b451718baf1a50a3990c01201f4f4a977bcac55b548031342c896ad08e666b51cdb5c69d321d3f45d4efc84381a69876dc0da50599968c04d09c533c5037eef33280e74098c6cd369516c38c42b9bc18f77021d9431ed6f431692f0b5caaa237a333b06120f424a09f31129ff3e0677b52a1ca4dcf8aee6dcbb04792ac64198fec0f41a3ef2dafccd84509300f6b9acd3ae9b8cf85d7d0eca7a21f26ef65a21d1e72af9708c80cddf7c7886b37396576b50e546185aff8924722b3a03e0e8a92aae5cb875d2fca1e3e63dd68dfd237639f3f19532a0299a19101e55ee42beeb0f23dd8bfd10fe1b1781c2d3b99aa933b68bd11db3bd531683a88201d59bcb66891d6d1151021922c15d9a7405b422d958c569464c10e201936d033ee186f307e8864327447452d8438341020f8832230f2b6f96b234bffad5604e332e713de3b564c9121ca41f0a2f9afd54ae86e7709d46d8b8dc8c026c477e66ae3859764de17c79683fbeeca48b6b5b9967a97e0cbae39aad3016679cc234e9d97e05c2d2df21fe07f21e9a71a0750363318f2b3b0da32127103054176e897639f1ad93b9dd6ec75acb6f71877eb06b3782de053f99ab22d78738d417628572e2b8ab9b2e83004cead6b4e25b4512990a3182f998ff0932eb887870c7367dd5ad2ba2775c2b9083418aa7d62339951cea425ef8ed95843b74616ebede15c3f702ae6b482f5f639fd945d1c071b8bcbfa0d6c279bc8c5f575ec7258fc43cf4c2de5e06c3a07cbbf4e13f19bbad06d024fd1272cc44e62c2fa25f6ef23f3f07f328807ac993f47de48d69c75c5293aa2d03a81b4a42b4c3a373813e631c0fcc5c6f40552c2ac1d17ccbf6a1ab30786e3f067a7fac5fd4aa65e263ac46e585057ccd3a76a589e3aa4becf07d2a0c6ade7c094169cc2268d2a165796d85ebd24660fe7fe459fae6de90b5ff01ccaf07ecc80a0dbaffa523a4647532b5bb758d2cb440006414fdf938bf7da32f3fcc339a487eff7615d9e47efccabc2a4acd07e472c25be1783e9af3ab2e261d61bc486a29ee8bfd99f03760962074ab946c12e4acddc922da779d5a58648b4102c2e7bdfbdacd09dcd7ecb721cea3c948fb697bd84ec30f8fa15f6a62cb55b9c33e5ecab6e681052dc57c4ba03f67722d304196fc4e03b3b08c93e9ec23570ecef1bf7acc0759c49c4bf2eacf17e623cb62881cf20112270aeeb73dc51f90ad04f9936f4963611699200abcf9500cfc4d86201916c7b317636e832ccfea80df087b1e4e0eb7ca700b6550e595658838297453da2280acefe80a281e3342d4bcc4a44516da267716290c913c3fe10afa480fca494320d93f2f429505e986b02eb55b338d91562caa6d57d6d2fc1b7ce3116ba18ca9885efd3de20d730b45ceb94a82bb5732350f74ba10a726698cfd722f488fd57120b699568006c5c2f8fabc590c21f53040b7867236a6f72ccdc39c5dc107f1d73125a4bb3ba91a0d066c6c8c1abd5420e4c99857ee73ac8f9a51c0ce30a10eeed52ededf95cfe4a2133841c9e632bfaa257edd3057f1f3659f60bd482328056fb2d821ec918afac39a7891a11db6c955417d785c96ff29a96d2205a5a9f01714569e5b547bcfb32aa252eb310236f86d64e250dee5c242ee6d9f008573d9deb67805a2b167df3f13901def8a853bbc3ac7ab94d55e2b26f0742d89dc5cbf5141e8eb4b249afc8b084f89aefa2e8c80c0021b1a1c9bc59a8a52ad53368dc07f06bb49caaf21c5d44e53a41b239958d9689bdadd192f3d773be222161982be528bc4f268dcec07a4754c58bc0869b8f90aec8d8ab49a90cc09c03c4f117a640089e41bdac530629044ea7247df6f42ba4405c2d264cc02b3b1866a1f8958f370ba0f20235554/141/384x216_699454/index.m3u8
-
-<<SONY GRUP>>>>>
+<<<<<SONY GRUP>>>>>
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONY GRUP",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
