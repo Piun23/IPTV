@@ -228,8 +228,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/LBTEumd.png?v=1.0.0.1" group-title="MOVIES" tvg-id="CinemaWorld HD" tvg-name="CinemaWorld HD", Cinema World 
 https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd 
 
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png" group-title="MOVIES", Cinema World Malay
-https://ktpremium.com:443/A0112/8544/901191
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="MOVIES", Cinema World Dens
+http://210.210.155.37/dr9445/h/h04/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="MOVIES",Citra Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
