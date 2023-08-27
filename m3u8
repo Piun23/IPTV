@@ -3,7 +3,8 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/lQMICXV.png?v=1.0.0.1" group-title="LOKAL" tvg-id="Trans TV" tvg-name="Trans TV", TransTV 
-https://nxanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#https://nxanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
@@ -130,6 +131,9 @@ https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jaktv_small1.png?v=2.0.0.13" group-title="LOKAL", JAKTV
 https://cdn09jtedge.indihometv.com/dvr/139/jaktv/manifest.mpd
 
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz5p7Ar02lg5gbjVq4YXF7fRxAiSGYLeTcA&usqp=CAU", Garuda TV
+http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://biznethome.net/wp-content/uploads/2022/11/Biznet-Adventure-170x85-1.png" group-title="LOKAL",Biznet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
@@ -202,12 +206,14 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES" tvg-id="Paramount Network" tvg-name="Paramount Network", Paramount Network
-https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/yvfUpGV.png?v=8.8.4.4" group-title="MOVIES" tvg-id="Zee" tvg-name="Zee", Zee Bioskop 
-https://nxanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd 
+#https://nxanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd 
+http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",Indonesia Movie Channels
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -368,6 +374,15 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAnzn_HrOEpH1ozF3MTmDDq1bwdZIIdFY3Q&usqp=CAU" group-title="KNOWLEDGE" tvg-name="Love Nature 4K", Love Nature 4K
 #https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8 
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davinci.tv/wp-content/uploads/2023/02/Da_Vinci_Primary_Logo_RGB_Red_AW.png" group-title="KNOWLEDGE",Da Vinci
+http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="KNOWLEDGE",Global Trekker
+http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
+
+#EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="HGTV asia" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="KNOWLEDGE",HGTV
+https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
@@ -562,20 +577,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/2e3fb585/eef1_r32.jpg" group-title="OLAHRAGA",MNC Sports 3 
 https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zHOHspc.png" group-title="OLAHRAGA", BEIN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://www.histar.tv/live
-https://us.dispatch.ulivetv.net/v/live/cg4725fntcqo.m3u8?stream_id=cg4725fntcqo&timestamp=1691405579&rand=VbeOgLUpha&uuid=9b647b3816b2a66a&from=web&sign=418288018e1ea208cabfcc4a76ac3f55
+#EXTINF:-1 tvg-id="premieresport.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="OLAHRAGA", Premiere Sport
+http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DgHVQzB.png" group-title="OLAHRAGA", BEIN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://www.histar.tv/live
-https://us.dispatch.ulivetv.net/v/live/cg476ghmetvk.m3u8?stream_id=cg476ghmetvk&timestamp=1691405629&rand=aBGgYadmpp&uuid=9b647b3816b2a66a&from=web&sign=b84a7a8886da3d8537135dd76ad4443b
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UkZmKol.png" group-title="OLAHRAGA", BEIN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://www.histar.tv/live
-https://us.dispatch.ulivetv.net/v/live/cg47a0abw91c.m3u8?stream_id=cg47a0abw91c&timestamp=1691405660&rand=qfk1ft3xsG&uuid=9b647b3816b2a66a&from=web&sign=678ceaeacc20f13ff1b80436fc478048
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" ,Eurosport 1 HD
+http://edge.linknetott.swiftserve.com/channelgroup3/cg319production/ch21/02.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="OLAHRAGA",Astro SuperSport 1
 https://m3.ballnaja.com/live/assp1/playlist.m3u8
