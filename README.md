@@ -1,1 +1,4 @@
-# IPTV hanya hasil mulung sana sini klo mau coba silahkan.
+# IPTV 
+# Playlist Tivimate gratisan
+# Tidak diperjualbelikan
+# Kalo mau icip silahkan gunakan dengan bijak.
