@@ -143,7 +143,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTyDpQSCCT11yC5nCVwfZkhCvPtWyZla2zww&usqp=CAU" group-title="LOKAL", Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
-<<<<MOVIES>>>>
+<<<<<MOVIES>>>>>
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1209,7 +1209,7 @@ http://190.83.119.67:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MG57pwQt/musik.jpg" group-title="MUSIK",MTV SIM HD 
 http://190.83.119.67:8000/play/a0sv/index.m3u8 
 
-<<<<<DIGITAL>>>>>
+<<<<<LOKAL DIGITAL>>>>>
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png",INDOSIAR HD
 #EXTGRP: LOKAL DIGITAL
 http://103.166.27.2:800/play/a016
