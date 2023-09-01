@@ -407,7 +407,8 @@ https://s@mpdplayer.izqhjzepxsrvrwl.sbs:443/4891/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cpv4vof.png" group-title="RELIGI",MAKKAH 
 #http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-https://edge.taghtia.com/sa/7.m3u8
+#https://edge.taghtia.com/sa/7.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" group-title="RELIGI",MADINAH TV
 #http://210.210.155.35/qwr9ew/s/s27/01.m3u8
